@@ -12,4 +12,17 @@ class Home extends BaseController
 
         return view('home', ['data' => $jsonData]);
     }
+
+    public function product($slug)
+    {
+        $xml = file_get_contents(FCPATH . "data/data.json"); 
+        $jsonData = json_decode($xml, true);
+        $data = $jsonData['data'];
+        foreach ($data as $key => $value) {
+            if ($value['slug'] == $slug) {
+                return view('product', ['data' => $value]);
+            }
+        }
+        return view('product', ['data' => $data[0]]);
+    }
 }

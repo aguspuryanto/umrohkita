@@ -43,7 +43,7 @@
                 <div class="d-grid gap-2 mt-auto">
                   <span class="text-muted">Mulai dari </span>
                   <p class="h5"><?= $value['currency'] . ' ' . number_format($value['price'], 0, ',', '.') ?></p>
-                  <a href="#" class="btn btn-primary" style="margin-top: auto;">Book now</a>
+                  <a href="<?= base_url('product/' . $value['slug']) ?>" class="btn btn-primary" style="margin-top: auto;">Book now</a>
                 </div>
               </div>
             </div>
