@@ -2,7 +2,7 @@
 
 <?= $this->section('content') ?>
 <main>
-    <section class="py-5 text-center container">
+    <section class="py-0 text-center container">
         <div class="row py-lg-5">
             <div class="p-5 text-center bg-body-tertiary rounded-3">
                 <h1 class="text-body-emphasis">Welcome to Umrah App</h1>
@@ -10,7 +10,7 @@
             </div>
         </div>
     </section>
-    <div class="album py-5 bg-body-tertiary">
+    <div class="album py-0 bg-body-tertiary">
     <div class="container">
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3">
         <?php
@@ -31,7 +31,7 @@
                   </svg></div> -->
               </div>
             </div>
-            <div class="card-body d-flex flex-column">
+            <div class="card-body position-relative">
               <h5 class="card-title"><?= $value['name'] ?></h5>
               <p class="card-text"><?= $value['travel_name'] ?></p>
               <p class="card-text">Sisa <?= $value['quota'] ?> kursi</p>
@@ -39,11 +39,11 @@
                   <div class="col-8"><small class="text-muted"><?= $value['departure_date'] ?></small></div>
                   <div class="col-4"><small class="text-muted"><?= $value['duration'] ?></small></div>
               </div>
-              <div class="row justify-content-end position-relative">
-                <div class="position-absolute bottom-0">
+              <div class="row justify-content-between">
+                <div class="d-grid gap-2 mt-auto">
                   <span class="text-muted">Mulai dari </span>
                   <p class="h5"><?= $value['currency'] . ' ' . number_format($value['price'], 0, ',', '.') ?></p>
-                  <a href="#" class="align-self-end btn btn-primary" style="margin-top: auto;">Book now</a>
+                  <a href="#" class="btn btn-primary" style="margin-top: auto;">Book now</a>
                 </div>
               </div>
             </div>
