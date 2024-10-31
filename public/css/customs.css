@@ -1,0 +1,67 @@
+.card-img-top-overlay .overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+/*     background: rgba(120,120,120,.4); */
+}
+a {
+  text-decoration: none !important;
+}
+.card-img-top-overlay .card-badge.top-right {
+    top: 1rem;
+    right: 1rem;
+}
+.card-img-top-overlay .card-badge.top-left {
+    top: 1rem;
+    left: 1rem;
+}
+/* for images to be same height */
+.img-same-height {
+  object-fit:cover;
+  height:250px;
+}
+.card-img-top-overlay .card-badge {
+    position: absolute;
+    font-size: .8125rem;
+    line-height: 1.5rem;
+    font-weight: 600;
+    box-shadow: 0 0.8rem 1.2rem #343a4014;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    border-radius: 0.25rem;
+    z-index: 1000;
+}
+.card-img, .card-img-top {
+    border-top-left-radius: calc(0.1875rem + 0px);
+    border-top-right-radius: calc(0.1875rem + 0px);
+    height: 198px;
+}
+.shape.bottom {
+    bottom: -2px;
+    left: 0;
+    right: 0;
+}
+
+.shape {
+    position: absolute;
+    pointer-events: none;
+    overflow: hidden;
+}
+.shape > svg {
+    width: auto;
+    height: 100%;
+}
+
+.shape.bottom > svg {
+    width: 100%;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 1.5rem;
+}
+.card {
+    margin-bottom: 1.5rem;
+    position: relative;
+}
