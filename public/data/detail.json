@@ -1,0 +1,236 @@
+{
+    "data": {
+        "id": 882,
+        "sku": "",
+        "quota": 100,
+        "is_departure_date_request": false,
+        "is_available_departure_date": true,
+        "is_quota_sold_out": false,
+        "travel": {
+            "id": 123,
+            "slug": "aqobah-tourtravel",
+            "sk_ppiu": "No. U 579\/2020 Tahun ",
+            "name": "Aqobah Tour & Travel",
+            "image": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/0000\/1\/2024\/10\/14\/thumbnail-175x90-aq.png"
+        },
+        "name": "BEAUTIFUL NEW KOREA",
+        "thumbnail": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/0000\/256\/2024\/07\/25whatsapp-image-2024-07-25-at-132908-1-400x500.webp",
+        "duration": "6 Hari 5 Malam",
+        "is_wishlist": false,
+        "description": "<p>BEAUTIFUL NEW KOREA<\/p><p>FLIGHT GA<\/p>",
+        "start_price": "15750000.00",
+        "currency": "IDR",
+        "down_payment": "8000000.00",
+        "general_information": [
+            {
+                "title": "Umum",
+                "details": [
+                    "Harga, jadwal, dan program dapat berubah sesuai kondisi penerbangan, visa, akomodasi dan transportasi."
+                ]
+            },
+            {
+                "title": "Syarat Ketentuan",
+                "details": [
+                    "<p>1. Itinerary dan harga dapat berubah sewaktu- waktu tanpa pemberitahuan<\/p><p>2. Harga hanya berlaku di tanggal\/bulan\/tahun yang tercantum<\/p><p>3. Belum ada reservasi penginapan dan pesawat sebelum ada tranksasi<\/p><p>4. Peserta wajib Vaksin Booster<\/p><p>5. Tidak ada pengembalian DP ataupun pelunasan apabila peserta membatalkan dengan alasan apapun 6. Penolakan Visa diluar dari wewenang Travel<\/p>"
+                ]
+            },
+            {
+                "title": "Kebijakan Pembatalan",
+                "details": [
+                    "<p>Pembatalan Keberangkatan :<\/p><p>1. 8 minggu sebelum berangkat 50% dari harga paket<\/p><p>2. 5 minggu sebelum berangkat 75% dari harga paket<\/p><p>3. 3 minggu sebelum berangkat 100% dari harga paket<\/p><p>4. Down Payment (DP) tidak kembali dengan alasan apapun<\/p>"
+                ]
+            }
+        ],
+        "youtube_url": null,
+        "departure_city_name": "Kota Jakarta Barat",
+        "arrival_city_name": "Incheon",
+        "facilities": {
+            "include": [
+                "Tiket Pesawat Internasional & Bagasi",
+                "Akomodasi *3",
+                "Tour Leader & Tour Guide",
+                "Transportasi",
+                "Entrance Tiket sesuai Itinerary",
+                "Tour & Makan sesuai Itinerary",
+                "Asuransi Perjalanan",
+                "Free Group Visa Korea"
+            ],
+            "exclude": [
+                "Optional Tour & Additional Meals",
+                "Administrasi Group Visa Korea",
+                "Tipping Guide & Driver",
+                "Single Supplement"
+            ]
+        },
+        "flights": [
+            {
+                "image": "",
+                "name": "Garuda Indonesia",
+                "class": "Economy Class",
+                "departure_airport": {
+                    "name": "Soekarno-Hatta International Airport",
+                    "iata": "CGK",
+                    "country_name": "Indonesia"
+                },
+                "transit_airport": null,
+                "arrival_airport": {
+                    "name": "Incheon International Airport",
+                    "iata": "ICN",
+                    "country_name": "South Georgia And South Sandwich Islands"
+                }
+            },
+            {
+                "image": "",
+                "name": "Garuda Indonesia",
+                "class": "Economy Class",
+                "departure_airport": {
+                    "name": "Incheon International Airport",
+                    "iata": "ICN",
+                    "country_name": "South Georgia And South Sandwich Islands"
+                },
+                "transit_airport": null,
+                "arrival_airport": {
+                    "name": "Soekarno-Hatta International Airport",
+                    "iata": "CGK",
+                    "country_name": "Indonesia"
+                }
+            }
+        ],
+        "galleries": [
+            {
+                "image": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/0000\/256\/2024\/07\/25\/whatsapp-image-2024-07-25-at-140337.jpeg"
+            }
+        ],
+        "itineraries": [
+            {
+                "title": "HARI 1",
+                "details": [
+                    "JAKARTA \u2013 INCHEON (MOB)\r\nPeserta berkumpul 3 jam sebelum keberangkatan di Bandara International Soekarno Hatta Terminal 3, melakukan group check in untuk penerbangan menuju Incheon."
+                ]
+            },
+            {
+                "title": "HARI 2",
+                "details": [
+                    "INCHEON \u2013 NAMI ISLAND \u2013 MT. SORAK (MOB, L, D)\r\nPeserta sarapan di pesawat, lalu tiba di Bandara Internasional Incheon, peserta bertemu dengan Guide. Kemudian peserta memulai perjalanan dengan mengunjungi Italian Village, menuju Nami Island, dan makan siang. Dilanjutkan menuju Mt. Sorak, makan malam, check in hotel dan beristirahat."
+                ]
+            },
+            {
+                "title": "HARI 3",
+                "details": [
+                    "MT. SORAK \u2013 SEOUL (B, L)\r\nSetelah sarapan dan check out hotel, peserta akan tour menuju Mt. Sorak untuk mengunjungi Gwangumsung Fortress Hill (termasuk Cable Car), Great Bronze Buddha Statue, Sinheungsa Temple, dan makan siang. Dilanjutkan peserta dapat mengetahui proses pembuatan rumput laut dan mencicipinya, belajar membuat Kimbap, melewati Cheonggyecheon Stream, dan berbelanja di Dongdaemun. Kemudian menuju hotel untuk check in dan beristirahat."
+                ]
+            },
+            {
+                "title": "HARI 4",
+                "details": [
+                    "SEOUL CITY TOUR (B, L)\r\nSetelah sarapan di hotel, peserta diantar mengunjungi Pusat Kosmetik Local Korea. Kemudian mengunjungi Bukchon Hanok Village, Itaewon Mosque, makan siang, COEX Mall, Starfield Library, dan Gangnam Style Statue. Di malam hari peserta akan diantar berbelanja di Hongdae Youth Avenue, lalu kembali ke hotel untuk beristirahat."
+                ]
+            },
+            {
+                "title": "HARI 5",
+                "details": [
+                    "SEOUL CITY TOUR (B, L)\r\nSetelah sarapan di hotel, peserta akan diantar melewati Blue House. Kemudian mengunjungi Gyeongbok Palace, disana peserta dapat mengenakan Hanbok. Dilanjutkan dengan shopping tour di Amethyst Showcase, Ginseng Center, Red Pine Shop, Duty Free Shop, dan makan siang. Lalu mengunjungi N Seoul Tower & Love Lock, berbelanja di Myeongdong Street, dan kembali ke hotel untuk beristirahat."
+                ]
+            },
+            {
+                "title": "HARI 6",
+                "details": [
+                    "SEOUL \u2013 JAKARTA (B, MOB)\r\nSetelah sarapan lebih awal dan check out hotel, peserta diantar berbelanja oleh-oleh di Local Supermarket. Kemudian menuju Bandara Internasional Incheon untuk penerbangan kembali menuju Jakarta, lalu peserta tiba di Bandara Internasional Soekarno Hatta, Jakarta. Terima kasih telah mempercayakan perjalanan anda kepada kami, sampai bertemu di program EAZY HOLIDAY selanjutnya."
+                ]
+            }
+        ],
+        "lodges": [
+            {
+                "name": "Cheong Cho Ho Hotel",
+                "city_name": "Sokcho",
+                "star_rate": 3,
+                "duration_stay": 1
+            },
+            {
+                "name": "Bridge Hotel",
+                "city_name": "Seoul",
+                "star_rate": 3,
+                "duration_stay": 3
+            }
+        ],
+        "faqs": [],
+        "departure_dates": [
+            {
+                "id": 1067,
+                "departure_date": "03 Desember 2024",
+                "available": 20,
+                "product_packages": [
+                    {
+                        "id": 3318,
+                        "label": "Dewasa Twin Room",
+                        "pax": 2,
+                        "price": "15750000.00",
+                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/double.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 1066,
+                "departure_date": "12 November 2024",
+                "available": 20,
+                "product_packages": [
+                    {
+                        "id": 3317,
+                        "label": "Dewasa Twin Room",
+                        "pax": 2,
+                        "price": "15750000.00",
+                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/double.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 1065,
+                "departure_date": "10 Oktober 2024",
+                "available": 20,
+                "product_packages": [
+                    {
+                        "id": 3316,
+                        "label": "Dewasa Twin Room",
+                        "pax": 2,
+                        "price": "15750000.00",
+                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/double.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 1064,
+                "departure_date": "13 September 2024",
+                "available": 20,
+                "product_packages": [
+                    {
+                        "id": 3315,
+                        "label": "Dewasa Twin Room",
+                        "pax": 2,
+                        "price": "15750000.00",
+                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/double.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 1063,
+                "departure_date": "30 Agustus 2024",
+                "available": 20,
+                "product_packages": [
+                    {
+                        "id": 3314,
+                        "label": "Dewasa Twin Room",
+                        "pax": 2,
+                        "price": "15750000.00",
+                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/double.jpg"
+                    }
+                ]
+            }
+        ],
+        "is_financing": 0,
+        "is_hajj": false,
+        "is_savings": false,
+        "consultant": null
+    },
+    "error": false,
+    "code": "F-PDP-DeP"
+}
