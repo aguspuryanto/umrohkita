@@ -65,3 +65,8 @@ a {
     margin-bottom: 1.5rem;
     position: relative;
 }
+
+.carousel-item img {
+    height: 350px;
+    object-fit: cover;
+}

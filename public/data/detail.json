@@ -1,71 +1,78 @@
 {
     "data": {
-        "id": 882,
+        "id": 992,
         "sku": "",
-        "quota": 100,
+        "quota": 29,
         "is_departure_date_request": false,
         "is_available_departure_date": true,
         "is_quota_sold_out": false,
         "travel": {
-            "id": 123,
-            "slug": "aqobah-tourtravel",
-            "sk_ppiu": "No. U 579\/2020 Tahun ",
-            "name": "Aqobah Tour & Travel",
-            "image": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/0000\/1\/2024\/10\/14\/thumbnail-175x90-aq.png"
+            "id": 88,
+            "slug": "4730-annisa-travel",
+            "sk_ppiu": "110 Tahun 2022",
+            "name": "Annisa Travel",
+            "image": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/0000\/1\/2023\/10\/25\/logo-annisa."
         },
-        "name": "BEAUTIFUL NEW KOREA",
-        "thumbnail": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/0000\/256\/2024\/07\/25whatsapp-image-2024-07-25-at-132908-1-400x500.webp",
-        "duration": "6 Hari 5 Malam",
+        "name": "Paket POS Umroh Super Promo",
+        "thumbnail": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/2024\/09\/03whatsapp-image-2024-09-03-at-095414-400x300.webp",
+        "duration": "9 Hari 8 Malam",
         "is_wishlist": false,
-        "description": "<p>BEAUTIFUL NEW KOREA<\/p><p>FLIGHT GA<\/p>",
-        "start_price": "15750000.00",
+        "description": null,
+        "start_price": "25400000.00",
         "currency": "IDR",
-        "down_payment": "8000000.00",
+        "down_payment": "5000000.00",
         "general_information": [
             {
                 "title": "Umum",
                 "details": [
-                    "Harga, jadwal, dan program dapat berubah sesuai kondisi penerbangan, visa, akomodasi dan transportasi."
+                    null
                 ]
             },
             {
                 "title": "Syarat Ketentuan",
                 "details": [
-                    "<p>1. Itinerary dan harga dapat berubah sewaktu- waktu tanpa pemberitahuan<\/p><p>2. Harga hanya berlaku di tanggal\/bulan\/tahun yang tercantum<\/p><p>3. Belum ada reservasi penginapan dan pesawat sebelum ada tranksasi<\/p><p>4. Peserta wajib Vaksin Booster<\/p><p>5. Tidak ada pengembalian DP ataupun pelunasan apabila peserta membatalkan dengan alasan apapun 6. Penolakan Visa diluar dari wewenang Travel<\/p>"
+                    null
                 ]
             },
             {
                 "title": "Kebijakan Pembatalan",
                 "details": [
-                    "<p>Pembatalan Keberangkatan :<\/p><p>1. 8 minggu sebelum berangkat 50% dari harga paket<\/p><p>2. 5 minggu sebelum berangkat 75% dari harga paket<\/p><p>3. 3 minggu sebelum berangkat 100% dari harga paket<\/p><p>4. Down Payment (DP) tidak kembali dengan alasan apapun<\/p>"
+                    null
                 ]
             }
         ],
-        "youtube_url": null,
+        "youtube_url": "https:\/\/youtu.be\/en5g22j5qbg",
         "departure_city_name": "Kota Jakarta Barat",
-        "arrival_city_name": "Incheon",
+        "arrival_city_name": "Jeddah",
         "facilities": {
             "include": [
-                "Tiket Pesawat Internasional & Bagasi",
-                "Akomodasi *3",
-                "Tour Leader & Tour Guide",
-                "Transportasi",
-                "Entrance Tiket sesuai Itinerary",
-                "Tour & Makan sesuai Itinerary",
-                "Asuransi Perjalanan",
-                "Free Group Visa Korea"
+                "Tiket pesawat PP",
+                "Visa Umrah + Tasreh Rawdah",
+                "Muthowwif & Pembimbing",
+                "Handling Jakarta & Saudi",
+                "Manasik Ibadah Umroh",
+                "Perlengkapan Umroh",
+                "Asuransi Perjalanan & Kesehatan",
+                "Hotel Mekkah & Madinah",
+                "Air Zam-zam 1 galon",
+                "Makan 3x sehari",
+                "Bus AC"
             ],
             "exclude": [
-                "Optional Tour & Additional Meals",
-                "Administrasi Group Visa Korea",
-                "Tipping Guide & Driver",
-                "Single Supplement"
+                "Cable Car Thoif",
+                "Kereta Cepat Haromain",
+                "City Tour Al Ula",
+                "Akomodasi Selama di Jakarta",
+                "Tiket \/ Bus dari daerah ke Jakarta",
+                "Pengurusan Paspor & Tambah nama",
+                "Pengeluaran pribadi lainnya",
+                "Kursi roda"
             ]
         },
         "flights": [
             {
                 "image": "",
-                "name": "Garuda Indonesia",
+                "name": "Oman Air",
                 "class": "Economy Class",
                 "departure_airport": {
                     "name": "Soekarno-Hatta International Airport",
@@ -74,19 +81,19 @@
                 },
                 "transit_airport": null,
                 "arrival_airport": {
-                    "name": "Incheon International Airport",
-                    "iata": "ICN",
-                    "country_name": "South Georgia And South Sandwich Islands"
+                    "name": "King Abdulaziz International Airport",
+                    "iata": "JED",
+                    "country_name": "Saudi Arabia"
                 }
             },
             {
                 "image": "",
-                "name": "Garuda Indonesia",
+                "name": "Oman Air",
                 "class": "Economy Class",
                 "departure_airport": {
-                    "name": "Incheon International Airport",
-                    "iata": "ICN",
-                    "country_name": "South Georgia And South Sandwich Islands"
+                    "name": "King Abdulaziz International Airport",
+                    "iata": "JED",
+                    "country_name": "Saudi Arabia"
                 },
                 "transit_airport": null,
                 "arrival_airport": {
@@ -98,130 +105,112 @@
         ],
         "galleries": [
             {
-                "image": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/0000\/256\/2024\/07\/25\/whatsapp-image-2024-07-25-at-140337.jpeg"
+                "image": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/0000\/185\/2024\/09\/03\/istiqomah-2.png"
+            },
+            {
+                "image": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/0000\/185\/2024\/09\/03\/istiqomah-3.png"
+            },
+            {
+                "image": "https:\/\/treetan-storage.is3.cloudhost.id\/uploads-production\/0000\/185\/2024\/09\/03\/istiqomah-4.png"
             }
         ],
         "itineraries": [
             {
-                "title": "HARI 1",
+                "title": "Hari 1",
                 "details": [
-                    "JAKARTA \u2013 INCHEON (MOB)\r\nPeserta berkumpul 3 jam sebelum keberangkatan di Bandara International Soekarno Hatta Terminal 3, melakukan group check in untuk penerbangan menuju Incheon."
+                    "Jakarta \u2013 Muscat - Jeddah- Madinah"
                 ]
             },
             {
-                "title": "HARI 2",
+                "title": "Hari 2 - Madinah",
                 "details": [
-                    "INCHEON \u2013 NAMI ISLAND \u2013 MT. SORAK (MOB, L, D)\r\nPeserta sarapan di pesawat, lalu tiba di Bandara Internasional Incheon, peserta bertemu dengan Guide. Kemudian peserta memulai perjalanan dengan mengunjungi Italian Village, menuju Nami Island, dan makan siang. Dilanjutkan menuju Mt. Sorak, makan malam, check in hotel dan beristirahat."
+                    "Ziarah Nabi, Baqe & Rawdah"
                 ]
             },
             {
-                "title": "HARI 3",
+                "title": "Hari 3 - Madinah",
                 "details": [
-                    "MT. SORAK \u2013 SEOUL (B, L)\r\nSetelah sarapan dan check out hotel, peserta akan tour menuju Mt. Sorak untuk mengunjungi Gwangumsung Fortress Hill (termasuk Cable Car), Great Bronze Buddha Statue, Sinheungsa Temple, dan makan siang. Dilanjutkan peserta dapat mengetahui proses pembuatan rumput laut dan mencicipinya, belajar membuat Kimbap, melewati Cheonggyecheon Stream, dan berbelanja di Dongdaemun. Kemudian menuju hotel untuk check in dan beristirahat."
+                    "Ziarah Medinah & Tausiyah"
                 ]
             },
             {
-                "title": "HARI 4",
+                "title": "Hari 4 - Madinah - Mekkah",
                 "details": [
-                    "SEOUL CITY TOUR (B, L)\r\nSetelah sarapan di hotel, peserta diantar mengunjungi Pusat Kosmetik Local Korea. Kemudian mengunjungi Bukchon Hanok Village, Itaewon Mosque, makan siang, COEX Mall, Starfield Library, dan Gangnam Style Statue. Di malam hari peserta akan diantar berbelanja di Hongdae Youth Avenue, lalu kembali ke hotel untuk beristirahat."
+                    "Ziarah Wada\u2019, Medinah \u2013 Mekkah & Umroh Pertama"
                 ]
             },
             {
-                "title": "HARI 5",
+                "title": "Hari 5 - Mekkah",
                 "details": [
-                    "SEOUL CITY TOUR (B, L)\r\nSetelah sarapan di hotel, peserta akan diantar melewati Blue House. Kemudian mengunjungi Gyeongbok Palace, disana peserta dapat mengenakan Hanbok. Dilanjutkan dengan shopping tour di Amethyst Showcase, Ginseng Center, Red Pine Shop, Duty Free Shop, dan makan siang. Lalu mengunjungi N Seoul Tower & Love Lock, berbelanja di Myeongdong Street, dan kembali ke hotel untuk beristirahat."
+                    "Tawaf Sunnah"
                 ]
             },
             {
-                "title": "HARI 6",
+                "title": "Hari 6 - Mekkah",
                 "details": [
-                    "SEOUL \u2013 JAKARTA (B, MOB)\r\nSetelah sarapan lebih awal dan check out hotel, peserta diantar berbelanja oleh-oleh di Local Supermarket. Kemudian menuju Bandara Internasional Incheon untuk penerbangan kembali menuju Jakarta, lalu peserta tiba di Bandara Internasional Soekarno Hatta, Jakarta. Terima kasih telah mempercayakan perjalanan anda kepada kami, sampai bertemu di program EAZY HOLIDAY selanjutnya."
+                    "Ziarah Mekkah & Umroh Kedua"
+                ]
+            },
+            {
+                "title": "Hari 7 - Mekkah",
+                "details": [
+                    "Tausiyah"
+                ]
+            },
+            {
+                "title": "Hari 8 - Mekkah \u2013 Jeddah - Muscat",
+                "details": [
+                    "Tawaf Wada\u2019 & Kepulangan"
+                ]
+            },
+            {
+                "title": "Muscat- Jakarta",
+                "details": [
+                    "Tiba di Jakarta"
                 ]
             }
         ],
         "lodges": [
             {
-                "name": "Cheong Cho Ho Hotel",
-                "city_name": "Sokcho",
+                "name": "Plaza Inn Ohud",
+                "city_name": "Medina",
                 "star_rate": 3,
-                "duration_stay": 1
+                "duration_stay": 4
             },
             {
-                "name": "Bridge Hotel",
-                "city_name": "Seoul",
+                "name": "Mather Al Eiman",
+                "city_name": "Mecca",
                 "star_rate": 3,
-                "duration_stay": 3
+                "duration_stay": 5
             }
         ],
         "faqs": [],
         "departure_dates": [
             {
-                "id": 1067,
-                "departure_date": "03 Desember 2024",
-                "available": 20,
+                "id": 1188,
+                "departure_date": "21 November 2024",
+                "available": 29,
                 "product_packages": [
                     {
-                        "id": 3318,
-                        "label": "Dewasa Twin Room",
-                        "pax": 2,
-                        "price": "15750000.00",
-                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/double.jpg"
-                    }
-                ]
-            },
-            {
-                "id": 1066,
-                "departure_date": "12 November 2024",
-                "available": 20,
-                "product_packages": [
+                        "id": 3527,
+                        "label": "Quad",
+                        "pax": 0,
+                        "price": "25400000.00",
+                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/triple.jpg"
+                    },
                     {
-                        "id": 3317,
-                        "label": "Dewasa Twin Room",
-                        "pax": 2,
-                        "price": "15750000.00",
-                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/double.jpg"
-                    }
-                ]
-            },
-            {
-                "id": 1065,
-                "departure_date": "10 Oktober 2024",
-                "available": 20,
-                "product_packages": [
+                        "id": 3528,
+                        "label": "Triple",
+                        "pax": 0,
+                        "price": "26000000.00",
+                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/family.jpg"
+                    },
                     {
-                        "id": 3316,
-                        "label": "Dewasa Twin Room",
-                        "pax": 2,
-                        "price": "15750000.00",
-                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/double.jpg"
-                    }
-                ]
-            },
-            {
-                "id": 1064,
-                "departure_date": "13 September 2024",
-                "available": 20,
-                "product_packages": [
-                    {
-                        "id": 3315,
-                        "label": "Dewasa Twin Room",
-                        "pax": 2,
-                        "price": "15750000.00",
-                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/double.jpg"
-                    }
-                ]
-            },
-            {
-                "id": 1063,
-                "departure_date": "30 Agustus 2024",
-                "available": 20,
-                "product_packages": [
-                    {
-                        "id": 3314,
-                        "label": "Dewasa Twin Room",
-                        "pax": 2,
-                        "price": "15750000.00",
-                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/double.jpg"
+                        "id": 3529,
+                        "label": "Double",
+                        "pax": 0,
+                        "price": "27000000.00",
+                        "image": "https:\/\/is3.cloudhost.id\/treetan-storage\/assets\/Image\/mobile-app\/family.jpg"
                     }
                 ]
             }
