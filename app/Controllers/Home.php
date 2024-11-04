@@ -18,11 +18,7 @@ class Home extends BaseController
         $xml = file_get_contents(FCPATH . "data/detail.json"); 
         $jsonData = json_decode($xml, true);
         $data = $jsonData['data'];
-        // foreach ($data as $key => $value) {
-        //     if ($value['slug'] == $slug) {
-        //         return view('product', ['data' => $value]);
-        //     }
-        // }
-        return view('product', ['data' => $data]);
+        
+        return view('detail', ['data' => $data]);
     }
 }
